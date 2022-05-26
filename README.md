@@ -1,6 +1,6 @@
 # Microbit File Manager
 
-A GUI file manager for the microbit with the MicroPython runtime. __Only tested with Microbit V1.__
+A GUI file manager for Linux based OS for the microbit with the MicroPython runtime. __Only tested with Microbit V1.__
 
 I was unable to find a file manager to suit my needs, so I created one.
 
@@ -15,6 +15,25 @@ I was unable to find a file manager to suit my needs, so I created one.
 + Delete files on the Microbit.
 
 ## Usage
+
+Clone the repository (must have git installed)
+
+```git clone https://github.com/4-3is4-me/Microbit-File-Manager.git
+
+#### Install dependencies
+
+```pip install guizero, microfs, uflash```
+
+or
+
+```pip3 install guizero, microfs, uflash```
+
+#### Run the appliction
+
+```cd Microbit-File-Manager```
+```python MicroFS.py```
+or
+```python3 MicroFS.py```
 
 To use Microbit File Manager you must have the MicroPython runtime installed on the Microbit. This creates the file system for the File Manager to access. Being able to save files on the Microbit is useful for data logging.
 
@@ -38,6 +57,7 @@ ___
 
 + Test with Microbit V2.
 + Add V2 version of MicroPython and version check.
++ Package as execuable.
 
 ___
 
@@ -48,4 +68,5 @@ ___
 ####  Advert
 
 *If you would like some poorly drawn icons for your application, please don't contact me!*
+
 

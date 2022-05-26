@@ -19,9 +19,9 @@ I was unable to find a file manager to suit my needs, so I created one.
 To use Microbit File Manager you must have the MicroPython runtime installed on the Microbit. This creates the file system for the File Manager to access. Being able to save files on the Microbit is useful for data logging.
 
 Microbit File Manager contains the latest version of MicroPython for the Microbit V1.
-   
-   To flash the V1 MicroPython to your Microbit, plug the Microbit in to a USB port, open Microbit File Manager and select __Create__ from the menu.
-   
+
++ To flash the V1 MicroPython to your Microbit, plug the Microbit in to a USB port, open Microbit File Manager and select __Create__ from the menu.
+
 Once the MicroPython runtime is flashed to the Microbit, you may use Microbit File Manager to manage the files. To get started, please refer to the MIcrobit MicroPython documentation. Essentially, to run MicroPython code on the Microbit, you must have a file called __main.py__ with the contents of your code uploaded to the Microbit file system.
 
    *Do not confuse the Microbit USB Mass Storage as the Microbit file system - they are separate. You will not be able to access the files in the file system from the USB Mass Storage.*

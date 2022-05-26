@@ -18,7 +18,7 @@ I was unable to find a file manager to suit my needs, so I created one.
 
 Clone the repository (must have git installed)
 
-```git clone https://github.com/4-3is4-me/Microbit-File-Manager.git
+```git clone https://github.com/4-3is4-me/Microbit-File-Manager.git```
 
 #### Install dependencies
 

@@ -31,9 +31,13 @@ or
 #### Run the appliction
 
 ```cd Microbit-File-Manager```
+
 ```python MicroFS.py```
+
 or
+
 ```python3 MicroFS.py```
+
 
 To use Microbit File Manager you must have the MicroPython runtime installed on the Microbit. This creates the file system for the File Manager to access. Being able to save files on the Microbit is useful for data logging.
 

@@ -20,7 +20,7 @@ To use Microbit File Manager you must have the MicroPython runtime installed on 
 
 Microbit File Manager contains the latest version of MicroPython for the Microbit V1.
 
-+ To flash the V1 MicroPython to your Microbit, plug the Microbit in to a USB port, open Microbit File Manager and select __Create__ from the menu.
+>To flash the V1 MicroPython to your Microbit, plug the Microbit in to a USB port, open Microbit File Manager and select __Create__ from the menu.
 
 Once the MicroPython runtime is flashed to the Microbit, you may use Microbit File Manager to manage the files. To get started, please refer to the MIcrobit MicroPython documentation. Essentially, to run MicroPython code on the Microbit, you must have a file called __main.py__ with the contents of your code uploaded to the Microbit file system.
 

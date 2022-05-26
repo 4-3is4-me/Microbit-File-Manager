@@ -27,6 +27,7 @@ def check_connection():
         
 def list_files():
     edit_finish()
+    microbit = check_connection()
     file_list = ls(microbit)
     if file_list == []:
         list_box.clear()

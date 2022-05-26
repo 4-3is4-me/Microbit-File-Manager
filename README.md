@@ -61,7 +61,7 @@ ___
 
 + Test with Microbit V2.
 + Add V2 version of MicroPython and version check.
-+ Package as execuable.
++ Package as executable.
 
 ___
 

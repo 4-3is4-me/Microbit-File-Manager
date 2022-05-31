@@ -136,7 +136,6 @@ def edit_finish():
     except:
         return
         
-        
 def save_file():
     global file_name
     microbit = check_connection()
@@ -229,7 +228,7 @@ def flash_mp():
 ### here we define the app ### 
 app = App(title = "MicroFS Manager", width = "980", height = "500")
 ## pick a random background colour and set the font
-colours = ["red", "green", "light blue", "yellow"] # blue is too dark so using light blue
+colours = ["firebrick1", "spring green", "light blue", "yellow2"] # blue is too dark so using light blue
 app.bg = choice(colours)
 app.text_color = "white"
 app.font = "verdana"

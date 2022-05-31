@@ -2,6 +2,8 @@
 
 A GUI file manager for Linux based OS for the microbit with the MicroPython runtime. __Only tested with Microbit V1.__
 
+Also works with Windows, but throws connection error when an action has executed. Wait a moment and click list and it's all ok.
+
 I was unable to find a file manager to suit my needs, so I created one.
 
 ## Features
